@@ -1,0 +1,44 @@
+{
+  "name": "vice-hour",
+  "displayName": "Vice Hour",
+  "description": "Temas inspirados em Vice City: noites de neon rosa e ciano, ou um dia pastel de palmeiras e pôr do sol em Miami.",
+  "version": "1.0.0",
+  "publisher": "local",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark",
+    "light",
+    "vice city",
+    "miami",
+    "neon",
+    "synthwave",
+    "retro",
+    "pink",
+    "cyan"
+  ],
+  "galleryBanner": {
+    "color": "#130C2E",
+    "theme": "dark"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Vice Hour Neon Nights",
+        "uiTheme": "vs-dark",
+        "path": "./themes/vice-hour-neon-nights-color-theme.json"
+      },
+      {
+        "label": "Vice Hour Miami Day",
+        "uiTheme": "vs",
+        "path": "./themes/vice-hour-miami-day-color-theme.json"
+      }
+    ]
+  }
+}
