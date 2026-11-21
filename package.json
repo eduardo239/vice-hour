@@ -3,8 +3,9 @@
   "displayName": "Vice Hour",
   "description": "Temas inspirados em Vice City: noites de neon rosa e ciano, ou um dia pastel de palmeiras e pôr do sol em Miami.",
   "version": "1.0.0",
-  "publisher": "local",
+  "publisher": "eduardo239",
   "license": "MIT",
+  "icon": "assets/icon.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/eduardo239/vice-hour.git"
